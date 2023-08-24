@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909596112388",
+    "project_id": "attendenceflutter",
+    "storage_bucket": "attendenceflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909596112388:android:8b0d88b4f9bc11c172a751",
+        "android_client_info": {
+          "package_name": "com.example.attendence_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909596112388-virf9qei3p0ak8jd0hus50kh1c04955o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendence_flutter",
+            "certificate_hash": "fd2c8726681a10085cac600dfae7c4a7fafe8d11"
+          }
+        },
+        {
+          "client_id": "909596112388-sio794beah9ut6ak6fja00hqi9j1vea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA14tO282JRO82zDHbaTwXNDFXOgZWhYs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909596112388-sio794beah9ut6ak6fja00hqi9j1vea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
